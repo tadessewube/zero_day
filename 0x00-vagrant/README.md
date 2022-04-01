@@ -1,1 +1,1 @@
-next zero day directory
+zero day program
